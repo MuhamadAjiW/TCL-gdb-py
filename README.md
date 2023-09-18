@@ -2,7 +2,7 @@
 > MuhamadAjiW, 18/09/2023
 
 ## Description
-`gdb 8.2.1` binary file for `TinyCoreLinux 12` with `python2` compatibility. You can clone this repo to work on it further. Src is `gdb 8.2.1` source code compiled inside a `VirtualBox run TinyCoreLinux 12` with `python2.7` in case you need it.
+`gdb 8.2.1` binary file for `TinyCoreLinux 12` with `python2` compatibility.
 
 ## Installation
 How to install in TinyCoreLinux:
